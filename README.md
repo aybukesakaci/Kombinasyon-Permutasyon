@@ -1,1 +1,1 @@
-# Kombinasyon-Permutasyon
+# Permutasyon-Kombinasyon
